@@ -555,3 +555,10 @@ div.wd-main{
     position: absolute;
     top: 120%; 
 }
+
+
+div.license{
+    text-align: center;
+    position: absolute;
+    top: 200%; 
+}
