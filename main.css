@@ -569,3 +569,71 @@ div.fb-like{
     top: 325; left: 5%;
     width: fit-content;
 }
+
+
+ul.bl-main{
+    color: darkolivegreen;
+    font-size: 50px;
+    text-align: center;
+    margin:0;
+    padding:0;
+    width: 50%;
+    position: absolute;
+    top: 25%; left: 25%;
+    outline-color: white;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: darkolivegreen;
+    opacity: .7;
+}
+
+ul.bl-main2{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin:0;
+    padding:0;
+    width: 50%;
+    position: absolute;
+    top: 25%; left: 25%;
+    outline-color: white;
+    outline-style: solid;
+    outline-width: 5px;
+}
+
+h1.bl-main2{
+    color: white;
+    font-size: 75px;
+    text-align: center;
+    margin:0;
+    padding:0;
+    width: 50%;
+    position: absolute;
+    top: 10%; left: 25%;
+    outline-color: white;
+    outline-style: solid;
+    outline-width: 5px;
+}
+
+h1.bl-main{
+    color: darkolivegreen;
+    font-size: 75px;
+    text-align: center;
+    margin:0;
+    padding:0;
+    width: 50%;
+    position: absolute;
+    top: 10%; left: 25%;
+    outline-color: white;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: darkolivegreen;
+    opacity: .7;
+}
+
+a.bl-main{
+    color: white;
+}
+a.bl-main:hover{
+    color: blue;
+}
