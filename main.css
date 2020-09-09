@@ -564,6 +564,8 @@ div.license{
 }
 
 div.fb-like{
+    text-align: left;
     position: absolute;
-    top: 317;
+    top: 325; left: 5%;
+    width: fit-content;
 }
